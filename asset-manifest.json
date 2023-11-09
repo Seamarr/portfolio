@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "https://seamarr.github.io/portfolio/static/js/main.770ab702.js",
+    "main.js": "https://seamarr.github.io/portfolio/static/js/main.e18c3b84.js",
     "static/js/787.38f16daf.chunk.js": "https://seamarr.github.io/portfolio/static/js/787.38f16daf.chunk.js",
     "static/media/rawgHome.png": "https://seamarr.github.io/portfolio/static/media/rawgHome.077f06006fda929f7b4e.png",
     "static/media/rawg3.png": "https://seamarr.github.io/portfolio/static/media/rawg3.f10e0cd0ba25065d6301.png",
@@ -44,10 +44,10 @@
     "static/media/spaHome.png": "https://seamarr.github.io/portfolio/static/media/spaHome.3aba578f5cafaa8d3e90.png",
     "static/media/spa3.png": "https://seamarr.github.io/portfolio/static/media/spa3.2f01ccdb4601cb214894.png",
     "index.html": "https://seamarr.github.io/portfolio/index.html",
-    "main.770ab702.js.map": "https://seamarr.github.io/portfolio/static/js/main.770ab702.js.map",
+    "main.e18c3b84.js.map": "https://seamarr.github.io/portfolio/static/js/main.e18c3b84.js.map",
     "787.38f16daf.chunk.js.map": "https://seamarr.github.io/portfolio/static/js/787.38f16daf.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.770ab702.js"
+    "static/js/main.e18c3b84.js"
   ]
 }
