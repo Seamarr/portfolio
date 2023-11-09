@@ -6,7 +6,7 @@ import { Title } from "../styles";
 import { expandAnim } from "../animations";
 // components
 import useScroll from "./useScroll";
-// my twitter: https://twitter.com/imSlayX
+
 const ContactMe = () => {
   const [element, controls] = useScroll();
   return (
