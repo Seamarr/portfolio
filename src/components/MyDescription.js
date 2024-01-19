@@ -12,7 +12,7 @@ const MyDescription = () => {
         Hey! I'm Carlos Martinez. I'm currently a third-year Computer Science student at UCLA.
         <br />I'm also an ex software engineer intern @ NASA JPL and Qualcomm.
         <br /> I am interested in embedded systems, backend development, tool development, DevOps, and Machine Learning.
-        <br /> You can check some of my personal projects down below.
+        <br /> You can check some of my personal projects down below test.
       </Description>
     </div>
   );
