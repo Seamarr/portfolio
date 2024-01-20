@@ -1,3 +1,33 @@
+# Updating the github pages site
+
+## Shell commands
+These shell commands can be useful to deploy the page
+
+### `npm run deploy`
+
+Will create a build a deploy it to the gh-pages branch automatically from the local files on the computer you run this command on.
+
+### `git remote -v`
+check the remote origins for the github repository currently on
+
+### `git fetch origin`
+This command downloads new data from the remote repository (named "origin" by default) but doesn't integrate any of this new data into your working files.
+
+### `git checkout branch-name`
+Make sure you are on the correct branch where you want to merge the changes.
+
+### `git merge origin/branch-name`
+This command will merge the fetched changes into your current branch.
+Replace branch-name with the name of the branch you are updating (e.g., main or master).
+
+If there are any conflicts between your local changes and the changes from GitHub, you'll need to resolve these manually. 
+Git will mark the files that have conflicts. After resolving conflicts, you'll need to add and commit these changes.
+
+### `git push origin branch-name`
+If you have made any new commits or resolved conflicts, you may want to push these changes back to the GitHub repository.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
