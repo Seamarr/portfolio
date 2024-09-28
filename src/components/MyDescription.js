@@ -9,9 +9,14 @@ const MyDescription = () => {
     <div className="desc">
       <Title variants={titleAnim}>About Me</Title>
       <Description variants={fade}>
-        Hey! I'm Carlos Martinez. I'm currently a third-year Computer Science student at UCLA.
-        <br />I'm also an ex software engineer intern @ NASA JPL and Qualcomm.
-        <br /> I am interested in embedded systems, backend development, tool development, DevOps, and Machine Learning.
+        Hey! I'm Carlos Martinez. I'm currently a fourth-year Computer Science
+        student at UCLA, graduating Spring 2025.
+        <br />
+        I'm also a previous software engineer intern @ LinkedIn, NASA JPL and
+        Qualcomm.
+        <br /> I am looking for a full-time SWE role in backend development,
+        tool development, distributed systems, ML/AI, cloud computing, and
+        infrastructure.
         <br /> You can check some of my personal projects down below.
       </Description>
     </div>
