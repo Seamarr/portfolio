@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "https://carlosmartinez.tech/static/js/main.efe840c4.js",
+    "main.js": "https://carlosmartinez.tech/static/js/main.4177c1b6.js",
     "static/js/787.38f16daf.chunk.js": "https://carlosmartinez.tech/static/js/787.38f16daf.chunk.js",
     "static/media/rawgHome.png": "https://carlosmartinez.tech/static/media/rawgHome.077f06006fda929f7b4e.png",
     "static/media/rawg3.png": "https://carlosmartinez.tech/static/media/rawg3.f10e0cd0ba25065d6301.png",
@@ -27,6 +27,7 @@
     "static/media/music3.png": "https://carlosmartinez.tech/static/media/music3.50695ac5cebd14f30063.png",
     "static/media/stat1.png": "https://carlosmartinez.tech/static/media/stat1.5b487a86e5a01d31afd4.png",
     "static/media/portHome.png": "https://carlosmartinez.tech/static/media/portHome.80b537a7e467c87a916a.png",
+    "static/media/cdlHome.png": "https://carlosmartinez.tech/static/media/cdlHome.6bfbe4d9f836d5a30825.png",
     "static/media/blogHome.png": "https://carlosmartinez.tech/static/media/blogHome.f474dc2b9c7a784ecdd6.png",
     "static/media/stat2.png": "https://carlosmartinez.tech/static/media/stat2.6ad155d1d5442a66a39d.png",
     "static/media/blog1.png": "https://carlosmartinez.tech/static/media/blog1.eaed47f7db0efb193d7c.png",
@@ -44,10 +45,10 @@
     "static/media/spaHome.png": "https://carlosmartinez.tech/static/media/spaHome.3aba578f5cafaa8d3e90.png",
     "static/media/spa3.png": "https://carlosmartinez.tech/static/media/spa3.2f01ccdb4601cb214894.png",
     "index.html": "https://carlosmartinez.tech/index.html",
-    "main.efe840c4.js.map": "https://carlosmartinez.tech/static/js/main.efe840c4.js.map",
+    "main.4177c1b6.js.map": "https://carlosmartinez.tech/static/js/main.4177c1b6.js.map",
     "787.38f16daf.chunk.js.map": "https://carlosmartinez.tech/static/js/787.38f16daf.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.efe840c4.js"
+    "static/js/main.4177c1b6.js"
   ]
 }
