@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "https://carlosmartinez.tech/static/js/main.4177c1b6.js",
+    "main.js": "https://carlosmartinez.tech/static/js/main.d44dc938.js",
     "static/js/787.38f16daf.chunk.js": "https://carlosmartinez.tech/static/js/787.38f16daf.chunk.js",
     "static/media/rawgHome.png": "https://carlosmartinez.tech/static/media/rawgHome.077f06006fda929f7b4e.png",
     "static/media/rawg3.png": "https://carlosmartinez.tech/static/media/rawg3.f10e0cd0ba25065d6301.png",
@@ -13,6 +13,7 @@
     "static/media/task2.png": "https://carlosmartinez.tech/static/media/task2.c4539dda7bd58cd24c2f.png",
     "static/media/task3.png": "https://carlosmartinez.tech/static/media/task3.ddc3f986b3cc207d5bc7.png",
     "static/media/rawg2.png": "https://carlosmartinez.tech/static/media/rawg2.5e6971dbae2bc80a8134.png",
+    "static/media/cargame.png": "https://carlosmartinez.tech/static/media/cargame.549d15b1319761ea3964.png",
     "static/media/yt2.png": "https://carlosmartinez.tech/static/media/yt2.84e0562ef1eb2a6fb50c.png",
     "static/media/yt3.png": "https://carlosmartinez.tech/static/media/yt3.04f3c995d4c66ebf99da.png",
     "static/media/ytHome.png": "https://carlosmartinez.tech/static/media/ytHome.2da16cf9a45eede8fe82.png",
@@ -45,10 +46,10 @@
     "static/media/spaHome.png": "https://carlosmartinez.tech/static/media/spaHome.3aba578f5cafaa8d3e90.png",
     "static/media/spa3.png": "https://carlosmartinez.tech/static/media/spa3.2f01ccdb4601cb214894.png",
     "index.html": "https://carlosmartinez.tech/index.html",
-    "main.4177c1b6.js.map": "https://carlosmartinez.tech/static/js/main.4177c1b6.js.map",
+    "main.d44dc938.js.map": "https://carlosmartinez.tech/static/js/main.d44dc938.js.map",
     "787.38f16daf.chunk.js.map": "https://carlosmartinez.tech/static/js/787.38f16daf.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.4177c1b6.js"
+    "static/js/main.d44dc938.js"
   ]
 }
