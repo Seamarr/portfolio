@@ -35,6 +35,7 @@ import stat2 from "./img/stat2.png";
 import stat3 from "./img/stat3.png";
 import statHome from "./img/statHome.png";
 import cdlHome from "./img/cdlHome.png";
+import cargame from "./img/cargame.png";
 
 export const projects = () => {
   return [
@@ -56,7 +57,7 @@ export const projects = () => {
         "This is a full on blog app. It has a database to keep track of all the users who register, their profiles, and posts. It also has private views to only allow authorized users to see",
       repo: "https://github.com/Seamarr/blogAppCM",
       url: "/work/blogApp",
-      id: 0,
+      id: 1,
       languages: ["Python", "HTML5", "CSS"],
       technology: ["Django"],
       mainImg: blogHome,
@@ -68,11 +69,23 @@ export const projects = () => {
         "This app calls on the rawg api to display info on video games. The presets are popular, upcoming, and new games, but the user can look up any video game and get info on it",
       repo: "Not Public",
       url: "/work/rawGames",
-      id: 1,
+      id: 2,
       languages: ["JavaScript", "HTML5", "CSS"],
       technology: ["React JS"],
       mainImg: rawgHome,
       images: [rawg1, rawg2, rawg3],
+    },
+    {
+      name: "CarGame",
+      description:
+        "This is my final project for my computer graphics class. It is a car game where the user can drive around a track and collect coins. The user also has some control over the physics of the game by being able to change the max speed allowed, mass of the car, applied force of the engine, braking force of the breaks, and a 'universal' coefficient of friction. All of these things work together using known physics formulas to create a semi-real physics experience.",
+      repo: "https://github.com/Seamarr/CarProject/tree/main",
+      url: "/work/carGame",
+      id: 3,
+      languages: ["JavaScript"],
+      technology: ["Tiny Graphics"],
+      mainImg: cargame,
+      images: [],
     },
     {
       name: "Music Player",
@@ -80,7 +93,7 @@ export const projects = () => {
         "This is a music player with fresh animations. Only the preset music is available, but the data to be able to play the music is received from an api",
       repo: "https://github.com/Seamarr/musicPlayerCM",
       url: "/work/music",
-      id: 2,
+      id: 4,
       languages: ["JavaScript", "HTML5", "CSS"],
       technology: ["React JS"],
       mainImg: musicHome,
@@ -92,7 +105,7 @@ export const projects = () => {
         "This is an app to keep track of your tasks. The front-end is managed by React, and the back-end by Django",
       repo: "https://github.com/Seamarr/taskDjCM",
       url: "/work/task",
-      id: 3,
+      id: 5,
       languages: ["JavaScript", "Python", "HTML5", "CSS"],
       technology: ["React JS", "Django"],
       mainImg: taskHome,
@@ -104,7 +117,7 @@ export const projects = () => {
         "This app calls on the youtube api to display videos from youtube that the user searches.",
       repo: "https://github.com/Seamarr/ytHooksCM",
       url: "/work/ytsearch",
-      id: 4,
+      id: 6,
       languages: ["JavaScript", "HTML5", "CSS"],
       technology: ["React JS"],
       mainImg: ytHome,
@@ -116,7 +129,7 @@ export const projects = () => {
         "This is a portfolio website with cool interactive animations",
       repo: "Not Public",
       url: "/work/port",
-      id: 5,
+      id: 7,
       languages: ["JavaScript", "HTML5", "CSS"],
       technology: ["React JS"],
       mainImg: portHome,
